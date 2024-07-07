@@ -59,7 +59,7 @@ The project revolves around creating an intelligent system capable of generating
   - Jupyter Notebook for prototyping and development
   - Git for version control
   - Docker for containerization
- ## 📂 Implementation Steps in `speech-emotion-recognition.ipynb`
+ ## 📂 Implementation Steps
 
 ### Data Collection and Preprocessing
 
