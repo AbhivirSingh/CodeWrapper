@@ -1,5 +1,8 @@
 # CodeWrapper
 # 🎤 AI Voiceover with Emotion
+## Live Demo
+
+You can view the live demo of the app here: [Streamlit App](https://codewrapper.streamlit.app/)
 
 ## 🎯 Objective
 
