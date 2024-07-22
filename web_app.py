@@ -89,8 +89,7 @@ def predict_text_emotion(sentence, model, label_encoder, tokenizer):
 
 # Function to get text-to-speech with emotion
 def text_to_speech(text, emotion):
-    #typecast_api_key = '__pltj5baABN9G47V2JRrbKpCSgqGgqwWhKUiCffjBKY5'  # Replace with your actual Typecast API key
-    typecast_api_key = '__pltGxD2tMfVJ8TbkFoce5JfhE5MYJChzVSC8QroSMiY'
+    typecast_api_key = st.secrets["auth_token"]
     headers = {'Authorization': f'Bearer {typecast_api_key}'}
 
     # Function to get the first actor
